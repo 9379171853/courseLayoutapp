@@ -1,0 +1,6 @@
+{
+  "name": "course",
+  "short_name": "course",
+  "start_url": "/",
+  "display": "standalone"
+}
